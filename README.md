@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there! I'm Changhyun Nam A.K.A TabloNi! 👋
 
 - I am a sophomore at Ajou University, School of Software.
 
@@ -7,6 +7,9 @@
 - My github status
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=TabloNi)](https://github.com/anuraghazra/github-readme-stats)
+
+#### 😄 I like to find various problems in my life and suggest wonderful solutions. If you want to join everything for me, please contact *tabloni0719@ajou.ac.kr!*
+
 
 <!--
 **TabloNi/TabloNi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
