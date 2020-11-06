@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- I am a sophomore at Ajou University, School of Software.
+
+- I am a product deginer and an Android app developer.
+
+- My github status
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=TabloNi)](https://github.com/anuraghazra/github-readme-stats)
 
